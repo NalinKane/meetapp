@@ -8,7 +8,7 @@ App for organising new meetings for like-minded individuals.
 
 * ```g clone <insert the copied link>``` in your node command line
 
-*
+* initiate the sequelize database by pasting ``` sequelize-cli db:drop && sequelize-cli db:create && sequelize-cli db:migrat``` in your command line
 
 
 ## Software used
